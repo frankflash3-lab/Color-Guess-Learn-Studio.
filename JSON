@@ -1,0 +1,17 @@
+{
+  "title": "Wild Animals",
+  "subtitle": "Color • Guess • Learn",
+  "age": "3-6",
+  "theme": "Wild Animals",
+
+  "animals": [
+    {
+      "id": "lion",
+      "name": "Lion",
+      "image": "lion.png",
+      "fact": "I can sleep almost twenty hours every day.",
+      "challenge": "Draw one butterfly.",
+      "pose": "happy"
+    }
+  ]
+}
