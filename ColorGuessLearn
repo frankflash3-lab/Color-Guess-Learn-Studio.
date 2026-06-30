@@ -1,0 +1,32 @@
+Color-Guess-Learn-Studio/
+
+├── src/
+│   ├── cgl/
+│   │   ├── cli.py
+│   │   ├── config.py
+│   │   ├── generator.py
+│   │   ├── constants.py
+│   │   │
+│   │   ├── models/
+│   │   │      animal.py
+│   │   │      book.py
+│   │   │
+│   │   ├── render/
+│   │   │      pages.py
+│   │   │      layout.py
+│   │   │      pdf.py
+│   │   │
+│   │   ├── assets/
+│   │   └── utils/
+│   │
+│   └── main.py
+│
+├── books/
+├── assets/
+├── output/
+├── templates/
+├── tests/
+│
+├── pyproject.toml
+├── README.md
+└── LICENSE
